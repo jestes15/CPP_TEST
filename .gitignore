@@ -3,3 +3,9 @@
 ################################################################################
 
 /CPP_TEST.sln
+/CPP_TEST.vcxproj
+/CPP_TEST.vcxproj.filters
+/CPP_TEST.vcxproj.user
+/x64/Debug
+/Debug
+/.vs/CPP_TEST/v16
